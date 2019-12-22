@@ -11,7 +11,7 @@ List of content
 - [Interoperability and Lisk DEX](#Interoperability-and-Lisk-DEX)
 - [lisk-sdk dapps](#lisk-sdk-dapps)
 - [lisk-sdk development tools](#lisk-sdk-development-tools)
-- [LSK and Token sharing / pool software](#LSK-and-Token sharing-/-pool-software)
+- [Tokens sharing and pooling](#Tokens-sharing-and-pooling)
 - [Custom libraries](#Custom-libraries)
 - [Wallets](#Wallets)
 - [Node managment and forging](#Node-managment-and-forging)
@@ -70,7 +70,7 @@ List of content
 * [randolisk](https://github.com/jondubois/randolisk) Decentralized random number generator for Lisk interchain.
 * [prando](https://github.com/zeh/prando) Deterministic pseudo-random number generator for JavaScript and TypeScript. Useful with lisk-sdk.
 
-# LSK and Token sharing / pool software
+# Tokens sharing and pooling
 * [liskpool](https://github.com/thepool-io/liskpool) Advanced pool sharing software, written in php. Using [lisk-php](https://github.com/thepool-io/lisk-php) and [liskpool-html](https://github.com/thepool-io/liskpool-html), developed by [ThePool](https://thepool.io) delegate.
 * [liskpool-html](https://github.com/thepool-io/liskpool-html) HTML interface for [liskpool](https://github.com/thepool-io/liskpool).
 * [lisk-pool](https://github.com/dakk/lisk-pool) Pool / sharing software written in JavaScript.
