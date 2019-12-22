@@ -8,15 +8,15 @@ List of content
 
 - [Useful Links](#Useful-Links)
 - [Framework: lisk-sdk](#Framework:-lisk-sdk)
-- [Interoperability & Lisk DEX](#Interoperability-&-Lisk-DEX)
+- [Interoperability and Lisk DEX](#Interoperability-and-Lisk-DEX)
 - [lisk-sdk dapps](#lisk-sdk-dapps)
 - [lisk-sdk development tools](#lisk-sdk-development-tools)
-- [LSK & Token sharing / pool software](#LSK-&-Token sharing-/-pool-software)
+- [LSK and Token sharing / pool software](#LSK-and-Token sharing-/-pool-software)
 - [Custom libraries](#Custom-libraries)
 - [Wallets](#Wallets)
-- [Node managment & forging](#Node-managment-&-forging)
+- [Node managment and forging](#Node-managment-and-forging)
 - [Network monitors](#Network-monitors)
-- [Transaction.asset - custom usage](#Transaction.asset---custom-usage)
+- [Transaction-asset - custom usage](#Transaction.asset---custom-usage)
 - [Vanitygens](#Vanitygens)
 - [Useful scripts](#Useful-scripts)
 - [Blockchain analysis](#Blockchain-analysis)
@@ -48,7 +48,7 @@ List of content
 * [lips](https://github.com/LiskHQ/lips) Lisk improvement proposal repository.
 * [lisk-template](https://github.com/LiskHQ/lisk-template) Lisk repository template.
 
-# Interoperability & Lisk DEX
+# Interoperability and Lisk DEX
 * [lisk-dex](https://github.com/jondubois/lisk-dex) Community driven, module compatible with lisk-sdk to enable DEX functionality between main and side chains. Utilising 2-way federated peg.
 * [lisk-dex-http-api](https://github.com/jondubois/lisk-dex-http-api) Http api module for [lisk-dex](https://github.com/jondubois/lisk-dex).
 * [lisk-interchain](https://github.com/jondubois/lisk-interchain) Community driven, custom peer selector plugin for Lisk. Used by [lisk-dex](https://github.com/jondubois/lisk-dex).
@@ -70,7 +70,7 @@ List of content
 * [randolisk](https://github.com/jondubois/randolisk) Decentralized random number generator for Lisk interchain.
 * [prando](https://github.com/zeh/prando) Deterministic pseudo-random number generator for JavaScript and TypeScript. Useful with lisk-sdk.
 
-# LSK & Token sharing / pool software
+# LSK and Token sharing / pool software
 * [liskpool](https://github.com/thepool-io/liskpool) Advanced pool sharing software, written in php. Using [lisk-php](https://github.com/thepool-io/lisk-php) and [liskpool-html](https://github.com/thepool-io/liskpool-html), developed by [ThePool](https://thepool.io) delegate.
 * [liskpool-html](https://github.com/thepool-io/liskpool-html) HTML interface for [liskpool](https://github.com/thepool-io/liskpool).
 * [lisk-pool](https://github.com/dakk/lisk-pool) Pool / sharing software written in JavaScript.
@@ -116,7 +116,7 @@ List of content
 * [lisk-multisig](https://github.com/andreafspeziale/lisk-multisig) Local web app for Lisk multi-signature accounts.
 * [lisk-buttons](https://github.com/lisk-builders/lisk-buttons) Lisk Buttons allow you to open Lisk Nano wallet with pre-filled forms.
 
-# Node managment & forging
+# Node managment and forging
 
 ### Managment
 
@@ -155,7 +155,7 @@ List of content
 * [Lisk-Delegate-Visualization](https://github.com/Korben3/Lisk-Delegate-Visualization) A visualization of the top 202 forging and standby delegates.
 * [lisk-argus](https://github.com/lisk-builders/lisk-argus) Lisk Argus is a monitoring software that keeps track of the Lisk network.
 
-# Transaction.asset - custom usage
+# Transaction-asset - custom usage
 * [lisk-file-manager](https://github.com/Lemii/lisk-file-manager) Software to manage files in Lisk blockchain.
 * [lisk-tic-tac-toe](https://github.com/sidechain-solutions/lisk-tic-tac-toe) tic tac toe game built only using transaction data field.
 * [PayWithLisk-Server](https://github.com/sdrpa/PayWithLisk-Server) Server to process payments with Lisk blockchain.
