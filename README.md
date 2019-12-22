@@ -16,7 +16,7 @@ List of content
 - [Wallets](#Wallets)
 - [Node managment and forging](#Node-managment-and-forging)
 - [Network monitors](#Network-monitors)
-- [Transaction-asset - custom usage](#Transaction.asset---custom-usage)
+- [Custom usage of transaction asset](#Custom-usage-of-transaction-asset)
 - [Vanitygens](#Vanitygens)
 - [Useful scripts](#Useful-scripts)
 - [Blockchain analysis](#Blockchain-analysis)
@@ -155,7 +155,7 @@ List of content
 * [Lisk-Delegate-Visualization](https://github.com/Korben3/Lisk-Delegate-Visualization) A visualization of the top 202 forging and standby delegates.
 * [lisk-argus](https://github.com/lisk-builders/lisk-argus) Lisk Argus is a monitoring software that keeps track of the Lisk network.
 
-# Transaction-asset - custom usage
+# Custom usage of transaction asset
 * [lisk-file-manager](https://github.com/Lemii/lisk-file-manager) Software to manage files in Lisk blockchain.
 * [lisk-tic-tac-toe](https://github.com/sidechain-solutions/lisk-tic-tac-toe) tic tac toe game built only using transaction data field.
 * [PayWithLisk-Server](https://github.com/sdrpa/PayWithLisk-Server) Server to process payments with Lisk blockchain.
