@@ -7,7 +7,7 @@ A curated list of Lisk resources, services and tools for software developers
 List of content
 
 - [Useful Links](#Useful-Links)
-- [Framework: lisk-sdk](#Framework:-lisk-sdk)
+- [lisk-sdk framework](#lisk-sdk-framework)
 - [Interoperability and Lisk DEX](#Interoperability-and-Lisk-DEX)
 - [lisk-sdk dapps](#lisk-sdk-dapps)
 - [lisk-sdk development tools](#lisk-sdk-development-tools)
@@ -39,7 +39,7 @@ List of content
 * [ThePool Discord server](https://discord.gg/XWMmS8X) Official ThePool delegate team chat server on Discord, related mostly to dapp development.
 * [Lisk Center Utrecht](https://www.liskcenter.io) LCU the blockchain hub of the Netherlands.
 
-# Framework: lisk-sdk
+# lisk-sdk framework
 * [lisk-sdk](https://github.com/LiskHQ/lisk-sdk) Github repository with lisk-sdk framework to develop dapps.
 * [lisk-explorer](https://github.com/LiskHQ/lisk-explorer) Github repository with lisk-explorer, compatible with lisk-sdk to browse blockchain data.
 * [lisk-docs](https://github.com/LiskHQ/lisk-docs) Official docs repository.
