@@ -61,6 +61,9 @@ List of content
 * [LQuiz](https://github.com/lisknonanika/LQuiz) Quiz proof of concept.
 * [lisk-bike-blockchain-app](https://github.com/bartwr/lisk-bike-blockchain-app) Decentralised bike sharing.
 * [lisk-roulette](https://github.com/corbifex/lisk-roulette) Proof of Concept roulette made with the Lisk SDK, developed by Moosty delegate team.
+* [chronicler](https://github.com/sidechain-solutions/chronicler) A distributed network to store, audit, or verify various types of data built using the Lisk SDK.
+* [lisk-inviter](https://github.com/sidechain-solutions/lisk-inviter) Blockchain ticketing system created using Lisk Alpha SDK.
+* [Global-Data-Chain](https://github.com/Korben3/Global-Data-Chain) Global Data Chain is a decentralized Sidechain PoC build with the Lisk SDK.
 
 # lisk-sdk development tools
 * [lisk-transaction-faucet](https://github.com/JesusTheHun/lisk-transaction-faucet) Custom transaction faucet
