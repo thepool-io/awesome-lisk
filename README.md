@@ -72,6 +72,7 @@ List of content
 * [lisk-bootstrap](https://github.com/JesusTheHun/lisk-bootstrap) A simple straight forward setup for developing a Lisk Blockchain.
 * [randolisk](https://github.com/jondubois/randolisk) Decentralized random number generator for Lisk interchain.
 * [prando](https://github.com/zeh/prando) Deterministic pseudo-random number generator for JavaScript and TypeScript. Useful with lisk-sdk.
+* [ldice-stresser](https://github.com/thepool-io/ldice-stresser) Node.js tool to stress ldice network, easily adaptable to any dapp made with lisk-sdk.
 
 # Tokens sharing and pooling
 * [liskpool](https://github.com/thepool-io/liskpool) Advanced pool sharing software, written in php. Using [lisk-php](https://github.com/thepool-io/lisk-php) and [liskpool-html](https://github.com/thepool-io/liskpool-html), developed by [ThePool](https://thepool.io) delegate.
@@ -84,6 +85,7 @@ List of content
 * [lisk-delegate-payouts](https://github.com/Lemii/lisk-delegate-payouts) Calculate voting rewards for individual delegates and pools
 * [liskit-pool](https://github.com/andreafspeziale/liskit-pool) Python script collection of the Lisk Liskit pool with [lisk-dashboard](https://github.com/andreafspeziale/liskit-dashboard).
 * [Lisk-fundsDistributor](https://github.com/simonmorgenthaler/Lisk-fundsDistributor) Python script to automatically distribute funds to different accounts.
+* [lisk-airdrop](https://github.com/biolypl/lisk-airdrop) CLI tool to run airdrops on Lisk or massive send to addresses from file.
 
 # Custom libraries
 * [lisk-php](https://github.com/thepool-io/lisk-php) PHP library and cli interface to interact with Lisk network, developed by [ThePool](https://thepool.io) delegate.
