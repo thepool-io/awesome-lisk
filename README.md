@@ -58,6 +58,7 @@ List of content
 * [ldem-lisk-chain](https://github.com/jondubois/ldem-lisk-chain) Lisk chain module for [LDEM](https://github.com/jondubois/ldem).
 * [lisk-dex-encrypt-passphrase](https://github.com/jondubois/lisk-dex-encrypt-passphrase) CLI command to quickly encrypt a passphrase for use by [lisk-dex](https://github.com/jondubois/lisk-dex).
 * [proper-order-book](https://github.com/jondubois/proper-order-book) An efficient order book which supports market and limit orders with fast insertion and search.
+* [lisk-htlc](https://github.com/Moosty/lisk-htlc) Hashed Time Lock Contract transaction for Lisk SDK based blockchain applications.
 
 # lisk-sdk dapps
 * [ldice](https://github.com/thepool-io/ldice) Proof of concept of provably fair dice game, developed by [ThePool](https://thepool.io) delegate.
